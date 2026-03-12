@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMEGA\\LibrarySystem\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807DE591-5E8E-434A-9307-8D445C2E6C8F}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\omega\\librarysystem\\librarysystem\\librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{807DE591-5E8E-434A-9307-8D445C2E6C8F}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OMEGA\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Form1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\OMEGA\\LibrarySystem\\LibrarySystem\\LibrarySystem\\Form1.cs [Design]",
+              "RelativeToolTip": "LibrarySystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:18:26.835Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
